@@ -1,0 +1,2 @@
+# chatgpt_tramsfer_api_use
+调用chatgpt的api创建应用
